@@ -1,6 +1,3 @@
-datatoload
-==========
-
 # Hello there!
 
 **What is this?** This is the place to track data for loading into OpenSpending (including tracking down, scraping, cleaning that data!). You can use it to:
