@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/openspending/datatoload.png?label=ready&title=Ready)](https://waffle.io/openspending/datatoload)
 # Hello there!
 
 **What is this?** This is the **community tracker** for work to **load data** into [OpenSpending][]
