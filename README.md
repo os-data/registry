@@ -61,7 +61,7 @@ Add info like:
 
 - Browse the [issue list][issues]
 - Claim the dataset by assigning your self to the issue
-- Ask for help from the community - see http://blog.openspending.org/contact/
+- Ask for help from the community - see http://community.openspending.org/about/contact/
 - When its done mark the issue as Closed
 
 ### Discuss stuff
